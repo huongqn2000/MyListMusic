@@ -49,32 +49,32 @@ public class Activity_Song extends AppCompatActivity implements View.OnClickList
                 finish();
                 break;
             case R.id.btn_index_1:
-                mResIdSelected = R.raw.bai-1;
+                mResIdSelected = R.raw.bai_1;
                 mIndexSelected = Integer.parseInt(((Button)v).getText().toString());
                 mTxtIndex.setText(mIndexSelected + "");
                 break;
             case R.id.btn_index_2:
-                mResIdSelected = R.raw.bai-2;
+                mResIdSelected = R.raw.bai_2;
                 mIndexSelected = Integer.parseInt(((Button)v).getText().toString());
                 mTxtIndex.setText(mIndexSelected + "");
                 break;
             case R.id.btn_index_3:
-                mResIdSelected = R.raw.bai-3;
+                mResIdSelected = R.raw.bai_3;
                 mIndexSelected = Integer.parseInt(((Button)v).getText().toString());
                 mTxtIndex.setText(mIndexSelected + "");
                 break;
             case R.id.btn_index_4:
-                mResIdSelected = R.raw.bai-4;
+                mResIdSelected = R.raw.bai_4;
                 mIndexSelected = Integer.parseInt(((Button)v).getText().toString());
                 mTxtIndex.setText(mIndexSelected + "");
                 break;
             case R.id.btn_index_5:
-                mResIdSelected = R.raw.bai-5;
+                mResIdSelected = R.raw.bai_5;
                 mIndexSelected = Integer.parseInt(((Button)v).getText().toString());
                 mTxtIndex.setText(mIndexSelected + "");
                 break;
             case R.id.btn_index_6:
-                mResIdSelected = R.raw.bai-6;
+                mResIdSelected = R.raw.bai_6;
                 mIndexSelected = Integer.parseInt(((Button)v).getText().toString());
                 mTxtIndex.setText(mIndexSelected + "");
                 break;
